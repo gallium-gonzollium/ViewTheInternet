@@ -13,7 +13,8 @@ It aims to build upon <a href=https://www.youtube.com/@tom7>SuckerPinch</a>'s ve
 <h1 align="center">How to Set Up</h1>
 
 - This is a program made exclusively in Python, so make sure you have it installed.
-- Download the code <a href="https://github.com/gallium-gonzollium/ViewTheInternet/archive/refs/heads/main.zip">here</a>, and unzip the `colored.zip` file into the same directory.
+- Download the code <a href="https://github.com/gallium-gonzollium/ViewTheInternet/archive/refs/heads/main.zip">here</a>, and unzip the contents into a folder.
+- Then unzip the `colored.zip` file into the same directory.
 - Install Requirements: `pip install pygame`
 - Launch `main.py`!
 
